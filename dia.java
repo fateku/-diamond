@@ -1,5 +1,3 @@
-package star;
-
 public class Dia {
 	public static void main(String[] args) {
 		int grape = 3;//層式
